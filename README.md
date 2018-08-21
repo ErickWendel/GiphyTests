@@ -1,0 +1,1 @@
+[ ![Codeship Status for vinistrauss/testesAutomatizados](https://app.codeship.com/projects/f015e640-86d2-0136-cf91-4e9297bf3221/status?branch=master)](https://app.codeship.com/projects/302555)
