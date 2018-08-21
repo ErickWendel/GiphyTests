@@ -45,3 +45,5 @@ module.exports = {
    buscaGIF : buscaGIF,
    buscaGIFComPromise : buscaGIFComPromise
 }
+
+/* testatndo o code ship */
